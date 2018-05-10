@@ -7,7 +7,8 @@ Creates a newbiz stack image using the official Amazon Linux image for Docker
 * PHP composer latest
 * MySQL client
 
-
+## Prerequisite
+Install docker to your local pc via the instruction in [Docker](https://docs.docker.com/install/)
 ## Getting Started
 This container is recommended for development use, to mirror or mimic development of an AWS EC2 instance running Amazon Linux.
 
@@ -38,4 +39,3 @@ You can use the Image built by DockerHub:
 ```
 docker pull duyho/docker_basic
 ```
-
