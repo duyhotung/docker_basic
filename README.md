@@ -1,4 +1,4 @@
-# Docker Amazon Linux LAMP
+# Docker Amazon Linux Newbiz
 Creates a newbiz stack image using the official Amazon Linux image for Docker
 
 * Apache 2.4
