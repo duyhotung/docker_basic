@@ -21,6 +21,7 @@ fi
 
 rm -f /var/run/httpd/*
 rm -f /tmp/*
+chown -R mysql:mysql /var/lib/mysql /var/run/mysqld
 
 service httpd start
 service mysqld start
