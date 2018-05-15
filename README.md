@@ -1,5 +1,5 @@
-# Docker Amazon Linux Newbiz
-Creates a newbiz stack image using the official Amazon Linux image for Docker. The image contents of:
+# Docker for LAMP/LNMP by AmazonLinux
+Creates a stack image using the official Amazon Linux image for Docker. The image contents of:
 
 * Apache 2.4
 * PHP 7.2.4
