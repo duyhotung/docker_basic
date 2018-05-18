@@ -1,14 +1,16 @@
-# Docker Amazon Linux LAMP
-Creates a newbiz stack image using the official Amazon Linux image for Docker
+# Docker for LAMP/LNMP by AmazonLinux
+Creates a stack image using the official Amazon Linux image for Docker. The image contents of:
 
 * Apache 2.4
 * PHP 7.2.4
 * MySQL 5.7
 * PHP composer latest
 * MySQL client
+* Xdebug 2.6
 
 ## Prerequisite
 Install docker to your local pc via the instruction in [Docker](https://docs.docker.com/install/)
+As the image is based on AmazonLinux, the local pc should be Unix-like operation system.
 ## Getting Started
 This container is recommended for development use, to mirror or mimic development of an AWS EC2 instance running Amazon Linux.
 
